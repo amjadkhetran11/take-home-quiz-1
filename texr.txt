@@ -1,0 +1,50 @@
+Quetion 01 How to launch swi-prolog on command line?
+Answer swipl --help
+swipl --version
+swipl --arch
+swipl --dump-runtime-variables
+REFRENCE: SWI-PROLOG COMMAND LINE..
+
+What is the extension of a prolog Knowledge Base?
+ans(.pl) is the extension of a prolog knowledge base.
+
+How to load a knowledge base in prolog?
+ans(kb1.pl)
+wizard(harry).
+wizard(ron).
+wizard(hermione).
+muggle(uncle_vernon).
+muggle(aunt_petunia).
+chases(crookshanks,scabbars).
+
+How to exit a prolog session?
+ansctrl d & halt...
+
+How to get help on a topic from within prolog?
+ans prolog enviromental tutorial...
+refrence; google.com
+
+What is an atom?
+ans An atom is a general-purpose name with no inherent meaning. It is composed of a sequence of characters that is parsed by the Prolog reader as a single unit.
+
+What is a term?
+ans True when Term is a term with functor Name / Arity . If Term is a variable it is unified with a new term whose arguments are all different variables.
+
+What is functor?
+ans In Prolog, the word functor is used to refer to the atom at the start of a structure, along with its arity, that is, the number of arguments it takes.
+
+What are complex terms?
+ans The number of arguments that a complex term has is called its arity.
+
+What is predicate?
+ans A predicate denotes a property or relationship between objects. A clause has a head and a body (Rule) or just a head (Fact).
+
+What is arity of predicate?
+ans A predicate with name Pred and N arguments is denoted by Pred/N, which is called a predicate indicator. N is called the arity of the predicate.
+
+What is unification?
+ans The way in which Prolog matches two terms is called unification.
+
+
+
+
